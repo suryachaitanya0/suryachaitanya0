@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 >Surya Chaitanya</h1>
+<div align="center">
+	<br>
+	<a href="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/header.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
