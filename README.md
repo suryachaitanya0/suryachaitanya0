@@ -1,9 +1,5 @@
-### Hi there 👋 , I'm [Surya Chaitanya](https://www.github.com/suryachaitanya0) 
-<!--
-<p  align="right"> 
-	![](https://komarev.com/ghpvc/?username=suryachaitanya0) 
-</p>
--->
+### Hi there 👋 , I'm [Surya Chaitanya](https://www.github.com/suryachaitanya0)  
+
 <!--
 **suryachaitanya0/suryachaitanya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 >Surya Chaitanya</h1>
 
+A 19Y/O Student from India.I love explore and learn new things, Occasionaly I do participate in hackathons.
+I have a love/hate relationship with programming and I really love technology. :heart_eyes:
+
+- 😄 **Pronouns:** He/Him
+
+- ⚡ **Check out my portfolio:**
+
+- **Checkout what i'm currently involved in.:**
+
+
+
+ 📫 _Thank for visiting and i'd love to connect_ 💬 
