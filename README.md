@@ -30,7 +30,7 @@ I have a love/hate relationship with programming and I really love technology. :
 
 - ⚡ **Check out my portfolio:** [Click Here]( https://suryachaitanya0.github.io/suryachaitanya0/)
 
-- **Checkout what i'm currently involved in: **
+- **Checkout what i'm currently involved in:**
 <br><br>
 
 
@@ -40,6 +40,6 @@ I have a love/hate relationship with programming and I really love technology. :
   <a href="https://www.linkedin.com/in/surya-chaitanya-152169199/"><img src="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/linkedin-box-line.png?raw=true"></a>
   <a href="https://twitter.com/suryachaitanya_"><img src="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/twitter-line.png?raw=true"></a>
   <a href="https://www.instagram.com/mr_netfreak/"><img src="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/instagram-line.png?raw=true"></a>
-  <a href=" https://suryachaitanya0.github.io/suryachaitanya0/"><img src="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/global-line.png?raw=true"></a>
+  <a href=" "><img src="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/global-line.png?raw=true"></a>
   <a href="https://www.github.com/suryachaitanya0"><img src="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/mail-send-line.png?raw=true"></a>
 </p>
