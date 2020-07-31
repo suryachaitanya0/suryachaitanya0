@@ -1,4 +1,6 @@
-### Hi there 👋 , I'm [Surya Chaitanya](https://www.github.com/suryachaitanya0)  
+### Hi there 👋 , I'm [Surya Chaitanya](https://www.github.com/suryachaitanya0)
+
+[about img](https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/Gitpro.PNG?raw=true)
 
 <!--
 **suryachaitanya0/suryachaitanya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
