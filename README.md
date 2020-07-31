@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I'm [Surya Chaitanya](https://www.github.com/suryachaitanya0) <p  align="right"> ![](https://komarev.com/ghpvc/?username=suryachaitanya0) </p>
 
 <!--
 **suryachaitanya0/suryachaitanya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 >Surya Chaitanya</h1>
