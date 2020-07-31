@@ -30,8 +30,9 @@ I have a love/hate relationship with programming and I really love technology. :
 
 - ⚡ **Check out my portfolio:** [Click Here]( https://suryachaitanya0.github.io/suryachaitanya0/)
 
-- **Checkout what i'm currently involved in:**
-<br><br>
+- 🔭 **Checkout what i'm currently involved in:** 
+
+<br>
 
 
  📫 _Thank for visiting and i'd love to connect_ 💬 
