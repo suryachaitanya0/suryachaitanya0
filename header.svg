@@ -20,9 +20,13 @@
 					font-size: 30px;
 					font-color: #9e9e9e;
 					}
+				p {
+					font-size: 30px;
+					font-color: #9e9e9e;
+					}
 			</style>
 			
-			<h1>Surya Chaitanya </h1><span class = "subhead">Hello there</span>
+			<h1>Surya Chaitanya </h1><p class = "subhead">Hello there</p>
 		</div>
 	</foreignObject>
 </svg>
