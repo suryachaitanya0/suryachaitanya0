@@ -33,5 +33,5 @@ I have a love/hate relationship with programming and I really love technology. :
   <a href="https://www.linkedin.com/in/surya-chaitanya-152169199/"><img src="images/linkedin-box-line.png"></a>
   <a href="https://twitter.com/suryachaitanya_"><img src="images/twitter-line.png"></a>
   <a href="https://www.instagram.com/mr_netfreak/"><img src="images/instagram-line.png"></a>
-  <a href="https://www.github.com/suryachaitanya0"><img src="images/global-line.png"></a>
+  <a href="https://www.github.com/suryachaitanya0"><img src="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/global-fill.png?raw=true"></a>
 </p>
