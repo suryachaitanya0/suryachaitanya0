@@ -2,10 +2,10 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=suryachaitanya0&style=flat-square">
-</p><br>br>
+</p>
  
 ![header-img](https://github.com/suryachaitanya0/suryachaitanya0/blob/master/images/headerpic.png?raw=true)
-<br><br>
+<br>
 
 <!--
 **suryachaitanya0/suryachaitanya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
