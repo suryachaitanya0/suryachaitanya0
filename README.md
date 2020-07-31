@@ -1,4 +1,7 @@
-### Hi there 👋 , I'm [Surya Chaitanya](https://www.github.com/suryachaitanya0) <p  align="right"> ![](https://komarev.com/ghpvc/?username=suryachaitanya0) </p>
+### Hi there 👋 , I'm [Surya Chaitanya](https://www.github.com/suryachaitanya0) 
+<p  align="right"> 
+	![](https://komarev.com/ghpvc/?username=suryachaitanya0) 
+</p>
 
 <!--
 **suryachaitanya0/suryachaitanya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +19,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 >Surya Chaitanya</h1>
-<div align="center">
-	<br>
-	<a href="https://github.com/suryachaitanya0/suryachaitanya0/blob/master/header.svg">
-		<img src="header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
+
